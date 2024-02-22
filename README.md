@@ -1,6 +1,6 @@
 # fcc-pokemon-search-app
 
-freeCodeCamp pokemon search app.
+freeCodeCamp pokemon search app project.
 
 TODO:
 1. Add filter.
